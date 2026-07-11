@@ -77,6 +77,33 @@ automate "monitor this page for changes"
 
 ---
 
+### 📨 Task Router
+**Trigger:** `lets route that`
+
+Analyzes context and routes tasks to external platforms (Wix, Shopify, Slack, etc.).
+
+```
+/add-skill https://github.com/sonamcgoo-dev/openhands-skills-i-made/tree/main/skills/task-router
+```
+
+**Usage:**
+```
+lets route that to Shopify - add these products
+lets route that - post this to Twitter and LinkedIn
+lets route that - create a Notion page for this project
+```
+
+**Routes to:**
+- Website builders (Wix, WordPress, Webflow)
+- E-commerce (Shopify, WooCommerce)
+- Social media (Twitter, LinkedIn, Reddit)
+- Communication (Slack, Discord, Email)
+- CRM (HubSpot, Salesforce, Linear)
+- Content (Medium, Substack, Notion)
+- And 20+ more platforms
+
+---
+
 ## Quick Start
 
 1. Add a skill to your OpenHands chat
